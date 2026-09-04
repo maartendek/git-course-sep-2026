@@ -1,10 +1,9 @@
 # This is a repo file
 
-wijzigen
+Dag dag
 
 Line 2
 
-Line 3 aanpassing erbij 11:47
+Line 3
 
-change nick via .vsc
-
+hoi ik ik zit in jouw .md gr nick
